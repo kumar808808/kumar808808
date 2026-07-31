@@ -9,7 +9,7 @@ Welcome to my portfolio! I specialize in converting raw operational and transact
 
 * **Languages & Scripting:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL)
 * **Business Intelligence & Dashboards:** Power BI (DAX, Data Modeling, Dynamic Tooltips, Time Intelligence), Excel
-* **Machine Learning & Analytics:** Classification, Fraud Detection, Class Imbalance (SMOTE), Exploratory Data Analysis (EDA), Feature Engineering, RFM Analysis
+* **Machine Learning & Analytics:**,Regression, Classification, Model building, Fraud Detection, Class Imbalance (SMOTE), Exploratory Data Analysis (EDA), Feature Engineering.
 * **Version Control & Workflows:** Git, GitHub, Jupyter Notebooks
 
 ---
@@ -36,7 +36,7 @@ Welcome to my portfolio! I specialize in converting raw operational and transact
 
 ---
 
-### 🏥 3. [Healthcare ER Operations & Patient Analytics](https://github.com/YOUR_USERNAME/Healthcare-Operations-and-Patient-Analytics)
+### 🏥 3. [Healthcare ER Operations & Patient Analytics](https://github.com/kumar808808/Healthcare-Operations-and-Patient-Analytics)
 > **Tech Stack:** Power BI (DAX) | SQL (PostgreSQL) | Python (Pandas)
 * **Problem:** Analyzed 19 months of emergency room data (9,216 patients) to resolve operational bottlenecks and low satisfaction scores.
 * **Key Findings:** Identified peak surge windows (11 AM, 1 PM, 7 PM, 11 PM) and main referral drivers (General Practice & Orthopedics account for >74% of referrals).
@@ -55,6 +55,6 @@ Welcome to my portfolio! I specialize in converting raw operational and transact
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
-* **Email:** your.email@example.com
-* **Portfolio / Resume:** [Link to your resume or personal site]
+* **LinkedIn:** [https://www.linkedin.com/in/kumar-kilarapu-879a3740a/)
+* **Email:** [a.kumar808808@gmail.com
+
