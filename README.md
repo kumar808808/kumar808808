@@ -16,7 +16,7 @@ Welcome to my portfolio! I specialize in converting raw operational and transact
 
 ## 🚀 Featured Portfolio Projects
 
-### 🛒 1. [Global Retail Sales Performance Dashboard](https://github.com/YOUR_USERNAME/Global-Retail-Sales-Performance-Dashboard)
+### 🛒 1. [Global Retail Sales Performance Dashboard](https://github.com/kumar808808/global-retail-sales-dashboard)
 > **Tech Stack:** Power BI (DAX) | SQL | Python (Pandas)
 * **Problem:** Analyzed multi-region global retail sales data to evaluate revenue trends, regional performance, product category profitability, and customer purchasing patterns.
 * **Key Deliverables & Highlights:**
