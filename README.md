@@ -26,7 +26,7 @@ Welcome to my portfolio! I specialize in converting raw operational and transact
 
 ---
 
-### 💳 2. [Credit Card Fraud Transaction Analytics](https://github.com/YOUR_USERNAME/Credit-Card-Fraud-Analytics)
+### 💳 2. [Credit Card Fraud Transaction Analytics](https://github.com/kumar808808/Credit_card_fraud_analysis)
 > **Tech Stack:** Python (Pandas, Scikit-Learn, Seaborn) | Machine Learning | Imbalanced Data Handling
 * **Problem:** Analyzed financial transaction records to detect fraudulent activity and identify critical fraud patterns while addressing extreme class imbalance.
 * **Key Deliverables & Techniques:**
